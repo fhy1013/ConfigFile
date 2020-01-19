@@ -1,0 +1,5 @@
+port=3006
+ipAddress=192.168.0.27
+database=test
+username=root
+password=root
